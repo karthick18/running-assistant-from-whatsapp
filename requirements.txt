@@ -1,0 +1,9 @@
+huggingface_hub[cli]
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+faiss-cpu   
+
+

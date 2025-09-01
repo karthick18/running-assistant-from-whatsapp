@@ -1,0 +1,6 @@
+*~
+venv/
+.vscode
+__pycache__/
+runchat_index
+running_chats.txt
